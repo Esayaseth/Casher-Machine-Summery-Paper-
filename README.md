@@ -12,7 +12,7 @@ This API solves the "Date Mapping" problem by automatically calculating the corr
 - **MoR Compliance:** Follows the strict 30-day filing window required by the Ethiopian Ministry of Revenues.
 
 ## How it Works
-The system uses a logic-based ruleset to map the 12 Ethiopian months. For example:
+The system uses a logic-based ruleset to map the 12/13 Ethiopian months. For example:
 - **Reporting in February (GC):** The API automatically looks back to sales made between **Jan 9 and Feb 7** (representing the Ethiopian month of **Tir**).
 
 ## Tech Stack
